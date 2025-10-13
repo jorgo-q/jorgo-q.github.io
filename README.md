@@ -5,7 +5,7 @@ Currently pursuing my **Master’s in Engineering Management & Leadership at Ric
 
 I believe great products come from listening deeply to your customers to create meaningful user experiences.
 
-## 🎓 Education
+## Education
 
 **Master of Engineering Management & Leadership (MEML)** – *Computer & Data Science Focus*  
 **Rice University** | Houston, TX | *Expected Dec 2026*  
@@ -14,7 +14,7 @@ I believe great products come from listening deeply to your customers to create 
 *American Univeristy in Bulgaria* | Bulgaria  
 
 
-## 💼 Experience
+## Experience
 
 | Role | Organization |
 |------|---------------|
@@ -65,3 +65,4 @@ MVP that nudges consistency with simple progress tracking and behavioral cues.
 🐙 [**GitHub**](https://github.com/jorgo-q)  
 📄 [**CV:**](https://www.jorgoqirjaj.com/cv)
 📧 **Email:** qirjaj.jorgo@gmail.com  
+
