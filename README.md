@@ -29,30 +29,25 @@ I’ve worked at the intersection of **technology, business, and UX**, leading c
 ## Projects 
 
 ### **ReHub Portal**  
-Build internal AI-powered portal using Claude AI, to streamline building compliance in NYC. 
-[View Project](https://github.com/jorgo-q/rehub-portal)
+Build internal AI-powered portal using Claude AI, to streamline building compliance in NYC. [View Project](https://github.com/jorgo-q/rehub-portal)
 
 ### **EasyPay Open Banking**  
-Led the development of Albania's first Open Banking services. 
-[View Campaign](https://www.easypay.al/)
+Led the development of Albania's first Open Banking services. [View Campaign](https://www.easypay.al/)
 
 ### **Waze Churn Prediction Model**  
-EDA and ML model to predict user churn for Waze. 
-[View Repository](https://github.com/jorgo-q/waze-churn-prediction-model)
+Machine Learning model to predict user churn for Waze. [View Repository](https://github.com/jorgo-q/waze-churn-prediction-model)
 
 ### **NYT Chart Recreation**  
-Rebuilt “What’s Going On in This Graph?” visuals to practice data storytelling.  
-[View Project](https://github.com/Jorgo-Rice/RCEL_506)
+Rebuilt “What’s Going On in This Graph?” visuals to practice data storytelling. [View Project](https://github.com/Jorgo-Rice/RCEL_506)
 
 ### **Trainly – Habit-Forming Fitness App**  
-MVP that nudges consistency with simple progress tracking and behavioral cues.  
-[View Case Study](https://www.jorgoqirjaj.com/projects/trainly)
+MVP that helps fitness enthusiasts create consistency and long-lasting habits. [View Case Study](https://www.jorgoqirjaj.com/projects/trainly)
 
 
 ## Skills
 
-**Product Skills:** Product Strategy • Discovery & Validation • Roadmapping • Agile & Scrum • Data Storytelling \n
-**Tech Skills:** Python • Data Visualization • EDA • Correlation Analysis • ML • SQL
+**Product Skills:** Product Strategy • Discovery & Validation • Roadmapping • Agile & Scrum • Data Storytelling <br>
+**Tech Skills:** Python • Data Visualization • EDA • Correlation Analysis • ML • SQL <br>
 **Tools:** Notion • Figma • Azure Boards • Zapier • Airtable • HubSpot • Miro 
 
 ## Connect with Me
