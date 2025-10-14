@@ -1,9 +1,8 @@
-# 👋 Hi, I’m **Jorgo Qirjaj!**
+# 👋 Hi, I’m **Jorgo**
 
-I’m a **Product Manager** with a passion for **data, human-centered design, and behavioral insights**.  
-Currently pursuing my **Master’s in Engineering Management & Leadership at Rice University**, with a focus in **Data** **Science**, bridging **product strategy** with **data-driven decision making.**
+I’m a **Product Manager** with a passion for **data, human-centered design, and behavioral insights**. Currently pursuing my **Master’s in Engineering Management & Leadership at Rice University**, with a focus in **Computer & Data** **Science**, bridging **product strategy** with **data-driven decision making.**
 
-I believe great products come from listening deeply to your customers to create meaningful user experiences.
+I believe that great products come from listening deeply to our customers and leveraging that to create meaningful user experiences.
 
 ## Education
 
@@ -29,19 +28,19 @@ I’ve worked at the intersection of **technology, business, and UX**, leading c
 ## Projects 
 
 ### **ReHub Portal**  
-Build internal AI-powered portal using Claude AI, to streamline building compliance in NYC. [View Project](https://github.com/jorgo-q/rehub-portal)
+Build internal AI-powered portal using Claude AI, to streamline building compliance in NYC. [Repository](https://github.com/JorgoQ)
 
 ### **EasyPay Open Banking**  
-Led the development of Albania's first Open Banking services. [View Campaign](https://www.easypay.al/)
+Led the development of Albania's first Open Banking services. [Campaign](https://easypay.al/en/openbanking/)
 
 ### **Waze Churn Prediction Model**  
-Machine Learning model to predict user churn for Waze. [View Repository](https://github.com/jorgo-q/waze-churn-prediction-model)
+Machine Learning model to predict user churn for Waze. [Repository](https://github.com/jorgo-q/waze-churn-prediction-model)
 
 ### **NYT Chart Recreation**  
-Rebuilt “What’s Going On in This Graph?” visuals to practice data storytelling. [View Project](https://github.com/Jorgo-Rice/RCEL_506)
+Rebuilt “What’s Going On in This Graph?” visuals to practice data storytelling. [Project](https://github.com/Jorgo-Rice/RCEL_506)
 
 ### **Trainly – Habit-Forming Fitness App**  
-MVP that helps fitness enthusiasts create consistency and long-lasting habits. [View Case Study](https://www.jorgoqirjaj.com/projects/trainly)
+MVP that helps fitness enthusiasts create consistency and long-lasting habits. [Projec](https://www.jorgoqirjaj.com/#projects)
 
 
 ## Skills
