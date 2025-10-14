@@ -40,7 +40,7 @@ Machine Learning model to predict user churn for Waze. [Repository](https://gith
 Rebuilt “What’s Going On in This Graph?” visuals to practice data storytelling. [Project](https://github.com/Jorgo-Rice/RCEL_506)
 
 ### **Trainly – Habit-Forming Fitness App**  
-MVP that helps fitness enthusiasts create consistency and long-lasting habits. [Projec](https://www.jorgoqirjaj.com/#projects)
+MVP that helps fitness enthusiasts create consistency and long-lasting habits. [Project](https://www.jorgoqirjaj.com/#projects)
 
 
 ## Skills
