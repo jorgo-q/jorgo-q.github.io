@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/J5.jpeg" alt="Jorgo headshot" width="260">
+  <img src="J5.jpeg" alt="Jorgo headshot" width="260">
 </p>
 
 # 👋 Hi, I’m **Jorgo**
