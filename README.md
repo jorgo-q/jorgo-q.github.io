@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/J5.jpeg" alt="Jorgo headshot" width="260">
+</p>
+
 # 👋 Hi, I’m **Jorgo**
 
 I’m a **Product Manager** with a passion for **data, human-centered design, and behavioral insights**. Currently pursuing my **Master’s in Engineering Management & Leadership at Rice University**, with a focus in **Computer & Data** **Science**, bridging **product strategy** with **data-driven decision making.**
