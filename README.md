@@ -31,7 +31,7 @@ I’ve worked at the intersection of **technology, business, and UX**, leading c
   Built an internal AI-powered platform using Claude AI to streamline building compliance in NYC.
 
 <div style="text-align:center;">
-  <img src='images/ReHub Dashboard.png' width="1000" height="300">
+  <img src='images/ReHub Dashboard.png' width="500" height="300">
 </div>
 
 - **[EasyPay Open Banking](https://easypay.al/en/openbanking/)**  
